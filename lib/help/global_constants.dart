@@ -1,1 +1,6 @@
-class Dim{}
+class Dim{
+  void dimDim(){
+
+
+  }
+}
