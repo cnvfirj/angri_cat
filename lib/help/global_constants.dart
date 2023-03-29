@@ -1,5 +1,5 @@
 class Dim{
-  /*редакція*/
+  /*редакція htlfrwsz*/
   void dimDim(){
 
 
